@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "./static/css/main.67c5c65e.chunk.css",
+    "main.js": "./static/js/main.e648c939.chunk.js",
+    "main.js.map": "./static/js/main.e648c939.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.ee3a0da1.js",
+    "runtime-main.js.map": "./static/js/runtime-main.ee3a0da1.js.map",
+    "static/js/2.3896ca50.chunk.js": "./static/js/2.3896ca50.chunk.js",
+    "static/js/2.3896ca50.chunk.js.map": "./static/js/2.3896ca50.chunk.js.map",
+    "static/js/3.e2da1b71.chunk.js": "./static/js/3.e2da1b71.chunk.js",
+    "static/js/3.e2da1b71.chunk.js.map": "./static/js/3.e2da1b71.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.67c5c65e.chunk.css.map": "./static/css/main.67c5c65e.chunk.css.map",
+    "static/js/2.3896ca50.chunk.js.LICENSE.txt": "./static/js/2.3896ca50.chunk.js.LICENSE.txt",
+    "static/media/index.css": "./static/media/ProximaNovaFont.7bc9ce40.otf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee3a0da1.js",
+    "static/js/2.3896ca50.chunk.js",
+    "static/css/main.67c5c65e.chunk.css",
+    "static/js/main.e648c939.chunk.js"
+  ]
+}
